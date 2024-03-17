@@ -1,12 +1,12 @@
 
 const firebaseConfig = {
-  apiKey: "AIzaSyB7F8kQ2dL_zAfkiZB1r3Nm78MctyNlkcw",
-  authDomain: "fir-software-e0796.firebaseapp.com",
-  databaseURL: "https://fir-software-e0796-default-rtdb.asia-southeast1.firebasedatabase.app",
-  projectId: "fir-software-e0796",
-  storageBucket: "fir-software-e0796.appspot.com",
-  messagingSenderId: "696583075761",
-  appId: "1:696583075761:web:411d80e336693308ebaf90"
+  apiKey: "",
+  authDomain: "",
+  databaseURL: "",
+  projectId: "",
+  storageBucket: "",
+  messagingSenderId: "",
+  appId: ""
 
 };
 
